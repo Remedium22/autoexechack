@@ -1,6 +1,6 @@
 sleep 1
 t app key mode
-sleep 15
+sleep 180
 t app key record
 sleep 1
 reboot yes
